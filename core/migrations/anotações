@@ -1,0 +1,2 @@
+python manage.py makemigrations | GGera o arquivo pra migração
+python manage.py migrate core <nro da migração> | realizar a migração do arquivo nro digitado
